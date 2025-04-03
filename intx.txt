@@ -1,0 +1,2 @@
+Today, we will learn how JavaScript runs in the browser. 
+First, the HTML code goes to the browser, then the browser uses its V8 engine to run JavaScript.
