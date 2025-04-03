@@ -1,0 +1,56 @@
+JavaScript having main 2 type  and 1 is mostly not used 
+
+        1. external => create the seperat file with .js extetion 
+
+        2. internal => used the script tag in html page
+
+        3.inline // not used 
+
+script add at last of the html file becase first load all the html or stuc. and then we apply script 
+
+
+* internal script
+        <html>
+        <head>
+        </head>
+        <body>
+
+        <script> here add script
+        </script>
+        </body>
+        </html>
+
+
+*external script
+        <html>
+        <head>
+        </head>
+        <body>
+
+        <script src="like here your file like ./fileNane"> </script>  // src stand for sorce
+        </body>
+        </html>
+
+
+* Variables : 
+              Variables is a contener which stored data or vaue.
+              mixture of letter and digit.
+
+              Rule:
+                    1. letter and digit = (a to z)(A to z) and (0 to 9)
+                    2. not used special symbol strating  but only ( _ ) used.
+                    3. space is not allow in var. " " //empty space
+                    4. variable must be strat with letter and  ( _ ) but digit is not allow in starting.
+
+* keywords : 
+            alredy fix  meaning in js ;
+
+             
+                    1. var  => reassiged and redecleared
+
+                    2. let => reassiged but not redecleared
+
+                    3. const => not reassiged or redecleared
+
+            this 3 keyword used for create the variable. 
+
