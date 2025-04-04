@@ -1,0 +1,42 @@
+
+
+console.log();  -> mostly used for print statemnt
+
+ Data has mainly two types
+ Type of Data 
+         1> Primitive Data: 
+                             selfcreated Data
+                             a. Number  :
+                                         ex., 12, 3, 2, 5,  ... all Number
+
+                             b. String  :
+                                         collection of character(a to z and A to Z)
+                                         ex., let a= "priyanka";
+                                         "priyanka" is String , string allwyas enclode between single quote( '' ) and double qoute ( " " )
+                             c. Boolean :
+                                         only true and flase values 
+                             d. Null    :
+                                         empty  
+                                         ex., let a = Null;
+                                         we can't assing valu to a 
+
+                             e. undefined :
+                                            let a  -> we create a variable but we can't assing value
+
+
+        2> Non-Primitive Data:
+                                used other data to create non-primitive datatype
+                                used {}  []  () this bracket to show non=primitive datatype.
+
+                             a. object  :
+                                         object can stored all primitive datatyle like number , string .
+
+                             b. Array   :
+                                          ex., let arr = [1,3];
+
+                             c. Funtion :
+                                         ex., let sum (){
+                                            
+                                         }
+
+                             d. dates
