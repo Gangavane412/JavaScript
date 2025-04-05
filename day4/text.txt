@@ -1,0 +1,21 @@
+console is  a object . it contince other methods
+
+1. console.log() -> consloe is object and log() is a methods
+                 log the output 
+
+2. consloe.info() -> only infomation showa 
+
+3. console.warn() -> show wornning
+
+4. console.error() ->  print error on the console
+
+5. console.clear() -> clear all info. 
+
+
+* Operators in JavaScript :- 
+                             1. arithmatic operator:-
+                                                    a. addtion (+)
+                                                    b. subtraction (-)
+                                                    c. Multipilication (*)
+                                                    d. division (/)
+                                                    e. modulus(%)
