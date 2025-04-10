@@ -1,0 +1,7 @@
+  *Identifiers in js :
+                       predefined meaning  
+
+
+document.title= newtitle;   addding title 
+
+document.writeln(); adding contet at last of html document.
