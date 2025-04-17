@@ -1,0 +1,18 @@
+
+ 1. alert("hiii");  
+                     show alert on the web page with only ok option
+                     it return undifeinde 
+
+ 2. confirm() : 
+                show the confirm box in web page .
+                it return true or flase.
+                it having ok or cancel  both button  (Yes or No)
+                user choise
+                ex., confirm("are you ready?");
+
+
+ 3. prompt(): 
+             get input form used.
+             it having tow button cancel or ok 
+             it return always string or null(all input convert intor string and return o.w. retrun null)
+             
