@@ -1,0 +1,19 @@
+Condition statement : 
+
+        1. if (condition) :
+                            Systax  :  if (condition) {
+                                // code 
+                            }
+        2. if -else  : 
+                        syntx : 
+
+                                    if(condition ){
+                                        // code 
+                                        if condition true then run
+                                    }
+                                    else{
+                                        // code
+                                        if condition is flase then run  this bolck
+                                    }
+                                    
+    
