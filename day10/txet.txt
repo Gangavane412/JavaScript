@@ -1,0 +1,19 @@
+swich : 
+         switch statement is use to execute diffrent block
+
+         sytax : 
+                switch(condition)
+                {
+                    case "hello": {
+                        //code 1
+
+                        brack;
+                    }
+
+
+                    case "hi" :{
+
+                        //code 2
+                        break;
+                    }
+                }
