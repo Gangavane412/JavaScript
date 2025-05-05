@@ -1,0 +1,18 @@
+array : arrya is the collection of values.          
+        In js array can contend homegeinus as well as hetogeniys array
+
+ex., let name=["priyanka", 1,ture];
+     console.log(name[0]);
+     console.log(name[1]);
+     console.log(name[2]);
+     console.log(name);  // all array print 
+
+Array methods : 
+                1. push :  add element in last of array
+                           ex., arra.push("A");
+
+                2. unshift() : add elemtn at star 
+                           ex., arr.unshift("A");
+
+                3.pop () : remove element from last 
+                           ex., arr.pop();
