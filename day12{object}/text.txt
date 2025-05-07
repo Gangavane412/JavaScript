@@ -1,0 +1,41 @@
+Basic Object:
+
+Key-value pairs in {}
+
+Example: {name: "priyanka", age: 22}
+
+Accessing Properties:
+
+Dot notation: object.key (e.g., myInfo.name)
+
+Bracket notation: object["key"]
+
+Nested Objects:
+
+Objects inside objects
+
+Access: info.name.lastname
+
+Objects with Arrays:
+
+Arrays as property values
+
+Example: FYBCS: ["priyanka", "dhanashre"]
+
+Methods: college.FYBCS.push("new"), college.FYBCS.indexOf("divya")
+
+Optional Chaining (?.):
+
+Safe access: info?.home?.age
+
+Prevents errors if property doesn't exist
+
+Practical Example (Instagram-like):
+
+javascript
+let MyInastaData = {
+    is_private: true,
+    account_name: "priyank412",
+    following: {"1": "A", "2": "B"},
+    posts: {url: "image url", name: "post name"}
+}

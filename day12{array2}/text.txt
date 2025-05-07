@@ -1,0 +1,49 @@
+1. reverse()
+Reverses the array.
+
+Example:
+
+javascript
+console.log(cities.reverse()); // ["dehli", "mumbai", "satara", "pun"]
+2. sort()
+Sorts array alphabetically.
+
+Example:
+
+javascript
+console.log(cities.sort()); // ["dehli", "mumbai", "pun", "satara"]
+3. includes("value")
+Checks if an element exists (returns true/false).
+
+Example:
+
+javascript
+console.log(cities.includes("pune")); // false (if not present)
+4. indexOf("value")
+Returns the index of an element (returns -1 if not found).
+
+Example:
+
+javascript
+console.log(cities.indexOf("pune")); // -1 (if not present)
+5. toString()
+Converts array into a comma-separated string.
+
+Example:
+
+javascript
+console.log(cities.toString()); // "pun,satara,mumbai,dehli"
+6. slice(start, end)
+Extracts a portion of the array (does not modify original).
+
+Example:
+
+javascript
+console.log(cities.slice(1, 3)); // ["satara", "mumbai"]
+7. splice(start, deleteCount, newItems)
+Modifies the array (adds/removes elements).
+
+Example:
+
+javascript
+console.log(cities.splice(1, 2)); // Removes 2 elements from index 1
