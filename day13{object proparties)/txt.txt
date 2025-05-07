@@ -1,0 +1,4 @@
+object.keys(obj) => return the obj 
+
+
+object.values(obj)  => return the ojb all vlaues in array form

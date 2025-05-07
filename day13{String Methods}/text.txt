@@ -1,0 +1,7 @@
+String : string is a collagetion of charaacter 
+
+1.str.length => return leght of string 
+
+2 .str.toUpperCase () => conver to upper UpperCase
+
+3.  str.toLowerCase () =>  convert to lower case 
